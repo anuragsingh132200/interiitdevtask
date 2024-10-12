@@ -37,15 +37,6 @@ This project is a submission for the InterIIT Tech Meet 13.0 Development Team Se
 
 The application is deployed on \[vercel.com]. The deployment link is: \[https://react-vite-shadcn-ui-five.vercel.app/].
 
-
-
-
-
-## Future Improvements(if deadline is extended)
-
-*   **Frontend:** Implementing search and filtering functionality, adding drag-and-drop support for items, and enhancing the user interface with animations and transitions.
-*   **Backend:** Implementing authentication, advanced search and filtering, and potentially integrating AI/ML features.
-
 ## Video Demonstration
 
 A video demonstrating the project's features is available at \[https://github.com/anuragsingh132200/interiitdevtask/blob/master/Screencast%20from%202024-10-13%2003-17-14.mp4]
