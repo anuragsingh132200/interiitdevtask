@@ -35,7 +35,7 @@ This project is a submission for the InterIIT Tech Meet 13.0 Development Team Se
 
 ## Deployment
 
-The application is deployed on \[vercel.com]. The deployment link is: \[https://react-vite-shadcn-ui-five.vercel.app/].
+The application is deployed on \[vercel.com]. The deployment link is: \[(https://interiitdevtask.vercel.app/)].
 
 ## Video Demonstration
 
